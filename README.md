@@ -20,3 +20,5 @@ Key Insight :
 3. Most applications are coming for credit card and home-related purposes
 4. Borrowers with longer employment tend to apply more
 5. Fully paid loans dominate, but charged-off loans still impact the overall numbers
+
+![image alt](https://github.com/Gourviii/Bank-loan-dashboard/blob/533f1dbbf07fdb37805ebf3c8dad0fda94dcd80b/Overview%20Dashboard%20Snapshot)
