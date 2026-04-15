@@ -1,9 +1,9 @@
 # Bank-loan-dashboard
 
-I built this dashboard to actually understand what’s happening with loans — not just numbers, but what they really mean in terms of performance and risk.
+I built this dashboard to actually understand what’s happening with loans - not just numbers, but what they really mean in terms of performance and risk.
  
 Problem it solves :
-This dashboard makes it easy to track loan quality (good vs bad), repayment status, and key risk indicators like interest rate and DTI — all in one place without digging through data.
+This dashboard makes it easy to track loan quality (good vs bad), repayment status, and key risk indicators like interest rate and DTI.., all in one place without digging through data.
 
 What I focused on :
 
