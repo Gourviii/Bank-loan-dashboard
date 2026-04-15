@@ -22,3 +22,4 @@ Key Insight :
 5. Fully paid loans dominate, but charged-off loans still impact the overall numbers
 
 ![image alt](https://github.com/Gourviii/Bank-loan-dashboard/blob/533f1dbbf07fdb37805ebf3c8dad0fda94dcd80b/Overview%20Dashboard%20Snapshot)
+![Image alt](https://github.com/Gourviii/Bank-loan-dashboard/blob/eb7afb8fadcb3cb2b75545622308d65216ffb1f6/Summary%20dashboard%20snapshot)
